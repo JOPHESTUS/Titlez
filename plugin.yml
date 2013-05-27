@@ -1,0 +1,6 @@
+name: Titlez
+main: me.jophestus.titlez.Titlez
+version: 1.0
+commands:
+    titlez:
+        description: /titlez set "title" To set a title - /title del To delete a title - /title list [playername] To list a player's title - /titlez reload To reload config
